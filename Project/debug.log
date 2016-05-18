@@ -1,0 +1,180 @@
+[0326/210014:ERROR:process_info.cc(608)] range at 0xfffde000, size 0x230 fully unreadable
+[0326/210014:ERROR:process_info.cc(608)] range at 0xfffdd000, size 0xf84 fully unreadable
+[0326/210014:ERROR:process_info.cc(608)] range at 0xfffd7000, size 0xf84 fully unreadable
+[0326/210014:ERROR:process_info.cc(608)] range at 0xfffda000, size 0xf84 fully unreadable
+[0326/210014:ERROR:process_info.cc(608)] range at 0xfffaf000, size 0xf84 fully unreadable
+[0326/210014:ERROR:process_info.cc(608)] range at 0xfffac000, size 0xf84 fully unreadable
+[0326/210014:ERROR:process_info.cc(608)] range at 0xfffa9000, size 0xf84 fully unreadable
+[0326/210014:ERROR:process_info.cc(608)] range at 0xfffa6000, size 0xf84 fully unreadable
+[0326/210014:ERROR:process_info.cc(608)] range at 0xfffa3000, size 0xf84 fully unreadable
+[0326/210014:ERROR:process_info.cc(608)] range at 0xfffa0000, size 0xf84 fully unreadable
+[0326/210014:ERROR:process_info.cc(608)] range at 0xfff9d000, size 0xf84 fully unreadable
+[0326/210014:ERROR:process_info.cc(608)] range at 0xfff9a000, size 0xf84 fully unreadable
+[0328/104541:ERROR:process_info.cc(608)] range at 0xfffde000, size 0x230 fully unreadable
+[0328/104542:ERROR:process_reader_win.cc(232)] ReadMemory at 0xfffde000 of 560 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0328/104542:ERROR:process_snapshot_win.cc(271)] ReadMemory PEB
+[0328/104542:ERROR:process_reader_win.cc(98)] process 66280 not found
+[0328/104542:ERROR:process_reader_win.cc(232)] ReadMemory at 0x290000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0328/104542:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[0328/104542:ERROR:process_reader_win.cc(232)] ReadMemory at 0x773f0000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0328/104542:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\windows\SysWOW64\ntdll.dll
+[0328/104542:ERROR:process_reader_win.cc(232)] ReadMemory at 0x757f0000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0328/104542:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\windows\syswow64\KERNELBASE.dll
+[0328/104542:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75260000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0328/104542:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\windows\syswow64\KERNEL32.dll
+[0328/104542:ERROR:process_reader_win.cc(232)] ReadMemory at 0x6d170000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0328/104542:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Program Files\AVAST Software\Avast\snxhk.dll
+[0328/104542:ERROR:process_reader_win.cc(232)] ReadMemory at 0x756f0000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0328/104542:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\windows\syswow64\msvcrt.dll
+[0328/104542:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74d30000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0328/104542:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\windows\syswow64\CRYPTBASE.dll
+[0328/104542:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74d40000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0328/104542:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\windows\syswow64\SspiCli.dll
+[0328/104542:ERROR:process_reader_win.cc(232)] ReadMemory at 0x76010000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0328/104542:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\windows\syswow64\RPCRT4.dll
+[0328/104543:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75490000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0328/104543:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\windows\SysWOW64\sechost.dll
+[0328/104543:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75000000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0328/104543:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\windows\syswow64\ADVAPI32.dll
+[0328/104543:ERROR:process_reader_win.cc(232)] ReadMemory at 0x6e120000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0328/104543:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Program Files (x86)\Google\Chrome\Application\49.0.2623.87\chrome_elf.dll
+[0328/104543:ERROR:process_reader_win.cc(232)] ReadMemory at 0x73090000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0328/104543:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\windows\system32\webio.dll
+[0328/104543:ERROR:process_reader_win.cc(232)] ReadMemory at 0x730e0000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0328/104543:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\windows\system32\WINHTTP.dll
+[0328/104543:ERROR:process_reader_win.cc(232)] ReadMemory at 0x72f40000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0328/104543:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\windows\system32\VERSION.dll
+[0328/104543:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74eb0000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0328/104543:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\windows\syswow64\USP10.dll
+[0328/104543:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75480000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0328/104543:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\windows\syswow64\LPK.dll
+[0328/104543:ERROR:process_reader_win.cc(232)] ReadMemory at 0x753d0000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0328/104543:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\windows\syswow64\GDI32.dll
+[0328/104543:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75eb0000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0328/104543:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\windows\syswow64\USER32.dll
+[0328/104543:ERROR:process_reader_win.cc(232)] ReadMemory at 0x73e30000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0328/104543:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\windows\system32\WINMM.dll
+[0328/104543:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75470000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0328/104543:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\windows\syswow64\profapi.dll
+[0328/104543:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75850000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0328/104543:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\windows\syswow64\USERENV.dll
+[0328/104543:ERROR:process_reader_win.cc(232)] ReadMemory at 0x715e0000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0328/104543:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\windows\system32\WTSAPI32.dll
+[0328/104543:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75610000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0328/104543:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\windows\syswow64\MSCTF.dll
+[0328/104543:ERROR:process_reader_win.cc(232)] ReadMemory at 0x76f90000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0328/104543:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\windows\system32\IMM32.DLL
+[0328/104543:ERROR:process_reader_win.cc(232)] ReadMemory at 0x72f00000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0328/104543:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\windows\SysWOW64\nvinit.dll
+[0328/104543:ERROR:process_reader_win.cc(232)] ReadMemory at 0x72ee0000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0328/104543:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\PROGRA~3\VKSaver\vksaver3.dll
+[0328/104543:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74f60000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0328/104543:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\windows\syswow64\SHLWAPI.dll
+[0328/104543:ERROR:process_reader_win.cc(232)] ReadMemory at 0x76100000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0328/104543:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\windows\syswow64\SHELL32.dll
+[0328/104543:ERROR:process_reader_win.cc(232)] ReadMemory at 0x756e0000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0328/104543:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\windows\syswow64\PSAPI.DLL
+[0328/104543:ERROR:process_reader_win.cc(232)] ReadMemory at 0x72200000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0328/104543:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\windows\system32\WINSPOOL.DRV
+[0328/104543:ERROR:process_reader_win.cc(232)] ReadMemory at 0x71fb0000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0328/104543:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.18837_none_41e855142bd5705d\COMCTL32.dll
+[0328/104543:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74da0000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0328/104543:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\windows\syswow64\COMDLG32.dll
+[0328/104543:ERROR:process_reader_win.cc(232)] ReadMemory at 0x754b0000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0328/104543:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\windows\syswow64\ole32.dll
+[0328/104543:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75940000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0328/104543:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\windows\syswow64\OLEAUT32.dll
+[0328/104543:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75460000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0328/104543:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\windows\syswow64\NSI.dll
+[0328/104543:ERROR:process_reader_win.cc(232)] ReadMemory at 0x72ff0000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0328/104543:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\windows\system32\WINNSI.DLL
+[0328/104543:ERROR:process_reader_win.cc(232)] ReadMemory at 0x73000000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0328/104543:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\windows\system32\IPHLPAPI.DLL
+[0328/104543:ERROR:process_reader_win.cc(232)] ReadMemory at 0x750d0000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0328/104543:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\windows\syswow64\WS2_32.dll
+[0328/104543:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75870000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0328/104543:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\windows\syswow64\MSASN1.dll
+[0328/104543:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75b70000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0328/104543:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\windows\syswow64\CRYPT32.dll
+[0328/104543:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75fb0000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0328/104543:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\windows\syswow64\WINTRUST.dll
+[0328/104543:ERROR:process_reader_win.cc(232)] ReadMemory at 0x722a0000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0328/104543:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\windows\system32\Secur32.dll
+[0328/104543:ERROR:process_reader_win.cc(232)] ReadMemory at 0x54190000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0328/104543:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Program Files (x86)\Google\Chrome\Application\49.0.2623.87\chrome_child.dll
+[0328/104543:ERROR:process_reader_win.cc(232)] ReadMemory at 0x6e6b0000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0328/104543:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Program Files\AVAST Software\Avast\aswJsFlt.dll
+[0328/104543:ERROR:process_reader_win.cc(232)] ReadMemory at 0x733d0000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0328/104543:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\windows\WinSxS\x86_avast.vc110.crt_2036b14a11e83e4a_11.0.60610.1_none_1d37a43bbfe1dc9c\MSVCR110.dll
+[0328/104543:ERROR:process_reader_win.cc(232)] ReadMemory at 0x734b0000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0328/104543:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\PROGRA~1\AVASTS~1\Avast\aswCmnIS.dll
+[0328/104543:ERROR:process_reader_win.cc(232)] ReadMemory at 0x73310000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0328/104543:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\windows\WinSxS\x86_avast.vc110.crt_2036b14a11e83e4a_11.0.60610.1_none_1d37a43bbfe1dc9c\MSVCP110.dll
+[0328/104543:ERROR:process_reader_win.cc(232)] ReadMemory at 0x733a0000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0328/104543:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\PROGRA~1\AVASTS~1\Avast\aswCmnOS.dll
+[0328/104543:ERROR:process_reader_win.cc(232)] ReadMemory at 0x73510000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0328/104543:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\PROGRA~1\AVASTS~1\Avast\aswCmnBS.dll
+[0328/104543:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75fe0000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0328/104543:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\windows\syswow64\CFGMGR32.dll
+[0328/104543:ERROR:process_reader_win.cc(232)] ReadMemory at 0x750b0000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0328/104543:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\windows\syswow64\DEVOBJ.dll
+[0328/104543:ERROR:process_reader_win.cc(232)] ReadMemory at 0x759d0000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0328/104543:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\windows\syswow64\SETUPAPI.dll
+[0328/104543:ERROR:process_reader_win.cc(232)] ReadMemory at 0x72790000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0328/104543:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\windows\system32\netutils.dll
+[0328/104543:ERROR:process_reader_win.cc(232)] ReadMemory at 0x72770000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0328/104543:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\windows\system32\srvcli.dll
+[0328/104543:ERROR:process_reader_win.cc(232)] ReadMemory at 0x72760000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0328/104543:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\windows\system32\wkscli.dll
+[0328/104543:ERROR:process_reader_win.cc(232)] ReadMemory at 0x727a0000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0328/104543:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\windows\system32\NETAPI32.dll
+[0328/104543:ERROR:process_reader_win.cc(232)] ReadMemory at 0x732f0000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0328/104543:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\PROGRA~1\AVASTS~1\Avast\log.dll
+[0328/104543:ERROR:process_reader_win.cc(232)] ReadMemory at 0x73040000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0328/104543:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\windows\system32\DNSAPI.dll
+[0328/104543:ERROR:process_reader_win.cc(232)] ReadMemory at 0x73140000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0328/104543:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\PROGRA~1\AVASTS~1\Avast\commchannel.dll
+[0328/104543:ERROR:process_reader_win.cc(232)] ReadMemory at 0x72970000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0328/104543:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\PROGRA~1\AVASTS~1\Avast\JsonRpcServer.dll
+[0328/104543:ERROR:process_reader_win.cc(232)] ReadMemory at 0x72f70000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0328/104543:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\windows\system32\rasman.dll
+[0328/104543:ERROR:process_reader_win.cc(232)] ReadMemory at 0x72f90000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0328/104543:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\windows\system32\RASAPI32.dll
+[0328/104543:ERROR:process_reader_win.cc(232)] ReadMemory at 0x73020000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0328/104543:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\PROGRA~1\AVASTS~1\Avast\avastIP.dll
+[0328/104543:ERROR:process_reader_win.cc(232)] ReadMemory at 0x72710000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0328/104543:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\PROGRA~1\AVASTS~1\Avast\AavmRpch.dll
+[0328/104543:ERROR:process_reader_win.cc(232)] ReadMemory at 0x731e0000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0328/104543:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\windows\system32\WSOCK32.dll
+[0328/104543:ERROR:process_reader_win.cc(232)] ReadMemory at 0x72f50000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0328/104543:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\PROGRA~1\AVASTS~1\Avast\aswEngLdr.dll
+[0328/104543:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75930000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0328/104543:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\windows\syswow64\api-ms-win-downlevel-user32-l1-1-0.dll
+[0328/104543:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75920000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0328/104543:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\windows\syswow64\api-ms-win-downlevel-shlwapi-l1-1-0.dll
+[0328/104543:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75840000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0328/104543:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\windows\syswow64\api-ms-win-downlevel-version-l1-1-0.dll
+[0328/104543:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75880000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0328/104543:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\windows\syswow64\api-ms-win-downlevel-normaliz-l1-1-0.dll
+[0328/104543:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74f50000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0328/104543:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\windows\syswow64\normaliz.DLL
+[0328/104543:ERROR:process_reader_win.cc(232)] ReadMemory at 0x1990000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0328/104543:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\windows\syswow64\api-ms-win-downlevel-advapi32-l1-1-0.dll
+[0328/104543:ERROR:process_reader_win.cc(232)] ReadMemory at 0x76d50000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0328/104543:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\windows\syswow64\iertutil.dll
+[0328/104543:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75ca0000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0328/104543:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\windows\syswow64\WININET.dll
+[0328/104543:ERROR:process_reader_win.cc(232)] ReadMemory at 0x731f0000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0328/104543:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\PROGRA~1\AVASTS~1\Avast\ashBase.dll
+[0328/104543:ERROR:process_reader_win.cc(232)] ReadMemory at 0x725b0000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0328/104543:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\PROGRA~1\AVASTS~1\Avast\aswAux.dll
+[0328/104543:ERROR:process_reader_win.cc(232)] ReadMemory at 0x726a0000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0328/104543:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\PROGRA~1\AVASTS~1\Avast\ashTask.dll
+[0328/104543:ERROR:process_reader_win.cc(232)] ReadMemory at 0x727c0000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0328/104543:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\PROGRA~1\AVASTS~1\Avast\Aavm4h.dll
+[0328/104543:ERROR:process_reader_win.cc(232)] ReadMemory at 0x6e360000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0328/104543:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\windows\system32\dwrite.dll
+[0328/104543:ERROR:process_reader_win.cc(232)] ReadMemory at 0x33c154 of 12 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0328/104543:WARNING:process_snapshot_win.cc(89)] ReadMemory ExceptionInformation failed
+[0328/104543:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::InitializeException failed
+[0328/104543:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess, ntstatus=-1073741558
